@@ -8,11 +8,11 @@ Este repositorio tiene todo mi trabajo de programacion (PA) en esta especializac
 ## Tareas del programa
 
 - Curso 1: Neural Networks and Deep Learning
-  - [Semana 2 - PA 1 (Optional) - Python Basics with Numpy]()
-  - [Semana 2 - PA 2 - Logistic Regression with a Neural Network mindset]()
-  - [Semana 3 - PA 3 - Planar data classification with one hidden layer]()
-  - [Semana 4 - PA 4 - Building your Deep Neural Network: Step by Step]()
-  - [Semana 4 - PA 5 - Deep Neural Network for Image Classification: Application]()
+  - [Semana 2 - PA 1 (Optional) - Python Basics with Numpy](https://github.com/germangelv/deep-learning-specialization-coursera/blob/master/neural_networks_and_deep_learning/Python_Basics_With_Numpy_v3a.ipynb)
+  - [Semana 2 - PA 2 - Logistic Regression with a Neural Network mindset](https://github.com/germangelv/deep-learning-specialization-coursera/blob/master/neural_networks_and_deep_learning/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
+  - [Semana 3 - PA 3 - Planar data classification with one hidden layer](https://github.com/germangelv/deep-learning-specialization-coursera/blob/master/neural_networks_and_deep_learning/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
+  - [Semana 4 - PA 4 - Building your Deep Neural Network: Step by Step](https://github.com/germangelv/deep-learning-specialization-coursera/blob/master/neural_networks_and_deep_learning/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+  - [Semana 4 - PA 5 - Deep Neural Network for Image Classification: Application](https://github.com/germangelv/deep-learning-specialization-coursera/blob/master/neural_networks_and_deep_learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
   
 - Curso 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
   - [Semana 1 - PA 1 - Initialization]()
