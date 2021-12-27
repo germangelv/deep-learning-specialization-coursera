@@ -36,3 +36,9 @@ Este repositorio tiene todo mi trabajo de programacion (PA) en esta especializac
 
 ## Hitos
 - Neural Networks and Deep Learning completado el **04-01-2020**
+- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization completado el **01-03-2020**
+- Structuring Machine Learning Projects completado el **28-03-2020**
+- Convolutional Neural Networks completado el **22-06-2020**
+- Sequence Models completado el **30-11-2020**
+
+- I achieved Specialization in Deep Learning at **30-11-2020**
